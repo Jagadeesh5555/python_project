@@ -1,7 +1,5 @@
 #print("hello world")
 from tkinter.ttk import Separator
-
-
 a="5"
 print(type(a))
 a= int(a)#5
